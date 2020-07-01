@@ -1,9 +1,9 @@
 ﻿{
-	"name": "Brincado com conjuntos teste",
-	"short_name": "Brincado com conjuntos teste",
+	"name": "Geometria em jogo",
+	"short_name": "Geometria em jogo",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "portrait",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
